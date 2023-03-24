@@ -2,8 +2,9 @@
 // Computes the dimensional weight of a 12" x 10" x 8" box
 
 #include <stdio.h>
+#include "dweight.h"
 
-int main(void) {
+void dweight() {
 
 	int height = 8;
 	int width = 10;
@@ -16,8 +17,6 @@ int main(void) {
 	printf("Volume (cubic inches): %d\n", volume);
 	printf("Dimensional weight (pounds): %d\n", weight);
 	printf("Shipping Price: $%.2f\n", price);
-
-	return 0;
 }
 
 // 	gcc -o dweight dweight.c

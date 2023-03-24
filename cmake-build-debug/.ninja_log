@@ -1,0 +1,23 @@
+# ninja log v5
+0	28	1679700734545590924	CMakeFiles/CProgrammingAModernApproach.dir/Chapters/Ch2_C_Fundamentals/Lessons/dweight.c.o	57e031e10e0c0468
+1	29	1679701115487329254	CMakeFiles/CProgrammingAModernApproach.dir/Chapters/Ch2_C_Fundamentals/Lessons/dweight.c.o	57e031e10e0c0468
+0	27	1679701242448010047	CMakeFiles/CProgrammingAModernApproach.dir/main.c.o	901a6a58d27c2d04
+27	61	1679701242482618320	CProgrammingAModernApproach	dec9a0a0d652408e
+0	27	1679701281018604625	CMakeFiles/CProgrammingAModernApproach.dir/Chapters/Ch2_C_Fundamentals/Lessons/dweight.c.o	57e031e10e0c0468
+0	28	1679701788544744806	CMakeFiles/CProgrammingAModernApproach.dir/main.c.o	901a6a58d27c2d04
+1	28	1679701788544949679	CMakeFiles/CProgrammingAModernApproach.dir/Chapters/Ch2_C_Fundamentals/Lessons/dweight.c.o	57e031e10e0c0468
+28	62	1679701788579633672	CProgrammingAModernApproach	dec9a0a0d652408e
+0	26	1679701821206694835	CMakeFiles/CProgrammingAModernApproach.dir/main.c.o	901a6a58d27c2d04
+26	60	1679701821241176039	CProgrammingAModernApproach	dec9a0a0d652408e
+0	26	1679701836496791782	CMakeFiles/CProgrammingAModernApproach.dir/main.c.o	901a6a58d27c2d04
+26	59	1679701836530960530	CProgrammingAModernApproach	dec9a0a0d652408e
+1	27	1679701900430764466	CMakeFiles/CProgrammingAModernApproach.dir/main.c.o	901a6a58d27c2d04
+1	27	1679701900430953423	CMakeFiles/CProgrammingAModernApproach.dir/Chapters/Ch2_C_Fundamentals/Lessons/dweight.c.o	57e031e10e0c0468
+27	62	1679701900466063746	CProgrammingAModernApproach	dec9a0a0d652408e
+0	3	0	clean	fd040bfe50d129a9
+0	27	1679701919624753250	CMakeFiles/CProgrammingAModernApproach.dir/main.c.o	901a6a58d27c2d04
+0	27	1679701919624894832	CMakeFiles/CProgrammingAModernApproach.dir/Chapters/Ch2_C_Fundamentals/Lessons/dweight.c.o	57e031e10e0c0468
+27	59	1679701919657647967	CProgrammingAModernApproach	dec9a0a0d652408e
+1	27	1679701962301937764	CMakeFiles/CProgrammingAModernApproach.dir/Chapters/Ch2_C_Fundamentals/Lessons/dweight.c.o	57e031e10e0c0468
+0	27	1679701962301890597	CMakeFiles/CProgrammingAModernApproach.dir/main.c.o	901a6a58d27c2d04
+27	61	1679701962336115553	CProgrammingAModernApproach	dec9a0a0d652408e

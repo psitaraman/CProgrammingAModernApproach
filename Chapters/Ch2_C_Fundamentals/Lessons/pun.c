@@ -1,10 +1,9 @@
 #include <stdio.h> //includes info on standard C input/output libraries
 
 // main program with no inputs and return type int
-int main(void) {
+void pun() {
 	// print desired message with new line at the end
 	printf("To C, or not to C: that is the question.\n");
-	return 0;
 }
 
 // *** Note: `n` notation, where n can be anything, is used to highlight key terms

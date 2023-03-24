@@ -1,0 +1,3 @@
+/Users/praveen/Documents/Workspace/Development/CProgrammingAModernApproach/cmake-build-debug/CMakeFiles/CProgrammingAModernApproach.dir
+/Users/praveen/Documents/Workspace/Development/CProgrammingAModernApproach/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/praveen/Documents/Workspace/Development/CProgrammingAModernApproach/cmake-build-debug/CMakeFiles/rebuild_cache.dir
